@@ -1,0 +1,102 @@
+                                           _______________________________________________
+                                           |     YOUR INCOME   =      0.00 INR      
+                                           |     YOUR EXPENSE  =      0.00 INR     
+                                           |     YOUR BALANCE  =      0.00 INR     
+                                           |_______________________________________________
+ENTER THE OPTION FROM THE BELOW 
+
+1.INSERT INCOME 
+2.INSERT EXPENSE 
+3.VIEW INCOME RECORD 
+4.VIEW EXPENSE RECORD 
+5.EXIT
+1
+
+
+
+**************   ADD INCOME   *****************
+
+Enter The Date(e.g day month year)
+13 06 2022
+Enter The Amount
+450000
+Enter the Category
+Income
+
+INCOME SAVED SUCCESSFULLY
+
+________________________________________________________________________________________________________________
+
+                                           _______________________________________________
+                                           |     YOUR INCOME   =      450000.00 INR
+                                           |     YOUR EXPENSE  =      0.00 INR
+                                           |     YOUR BALANCE  =      450000.00 INR
+                                           |_______________________________________________
+ENTER THE OPTION FROM THE BELOW
+
+1.INSERT INCOME
+2.INSERT EXPENSE
+3.VIEW INCOME RECORD
+4.VIEW EXPENSE RECORD
+5.EXIT
+2
+
+
+
+**************    ADD EXPENSE   *****************
+
+Enter The Date(e.g day month year)
+14 06 2022
+Enter The Amount
+145670 
+Enter The Category
+Expenses
+
+EXPENSE SAVED SUCCESSFULLY
+
+________________________________________________________________________________________________________________
+
+                                           _______________________________________________
+                                           |     YOUR INCOME   =      450000.00 INR
+                                           |     YOUR EXPENSE  =      145670.00 INR
+                                           |     YOUR BALANCE  =      304330.00 INR
+                                           |_______________________________________________
+ENTER THE OPTION FROM THE BELOW
+
+1.INSERT INCOME
+2.INSERT EXPENSE
+3.VIEW INCOME RECORD
+4.VIEW EXPENSE RECORD 
+5.EXIT
+3
+
+
+
+*********   YOUR INCOME RECORD IS   *******
+
+Date: 13 06 2022
+Amount: 450000.00 INR
+Category: Income
+
+________________________________________________________________________________________________________________
+
+                                           _______________________________________________
+                                           |     YOUR INCOME   =      450000.00 INR
+                                           |     YOUR EXPENSE  =      145670.00 INR
+                                           |     YOUR BALANCE  =      304330.00 INR
+                                           |_______________________________________________
+ENTER THE OPTION FROM THE BELOW
+
+1.INSERT INCOME
+2.INSERT EXPENSE
+3.VIEW INCOME RECORD
+4.VIEW EXPENSE RECORD
+5.EXIT
+4
+
+
+
+*********   YOUR EXPENSE RECORD IS   *******
+
+5.EXIT
+5
